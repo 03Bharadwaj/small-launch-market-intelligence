@@ -1,0 +1,448 @@
+operator_id,operator_name,country,sector,segment,total_satellites,total_mass_kg,prospect_score,tier,s_orbit,s_mass,s_constellation,s_diversity,s_recency,s_sector,s_geography,leo_count,sso_count,provider_diversity,latest_launch_year
+1,AAC Clyde Space,United Kingdom,commercial,earth_observation,1,4.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+2,ACMEO,USA,commercial,technology_demo,1,1.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2022
+3,ADA Space (?),China,commercial,earth_observation,1,20.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2022
+4,AISTech,Spain,commercial,earth_observation,2,4.9,64.3,High,100.0,100,20,60,40,100,30,2,0,2,2019
+5,AMSAT-NA,USA,government,communications,2,30.5,58.1,Medium,100.0,100,20,60,40,40,50,2,0,2,2018
+6,AMSAT-UK,Netherlands,government,communications,1,1.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2013
+7,AMSAT/Nepal,Nepal,government,communications,1,0.5,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2022
+8,ANDESITE - Boston University,USA,government,technology_demo,1,9.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2020
+9,Aalto University,Finland,government,technology_demo,2,5.5,57.1,Medium,100.0,100,20,60,40,40,30,2,0,2,2018
+10,Aerospace Corporation,USA,commercial,technology_demo,12,40.5,87.5,Priority,100.0,100,60,100,100,100,50,12,0,5,2023
+11,Aerospacelab,Belgium,commercial,earth_observation,1,20.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+12,AgilSpace,Singapore,commercial,earth_observation,1,400.0,55.6,Medium,100.0,100,5,30,10,100,70,1,0,1,2015
+13,Air Force Research Laboratory,USA,military,technology_demo,2,23.0,60.2,High,100.0,100,20,60,70,20,50,2,0,2,2021
+14,Air Force Research Laboratory/Globalstar,USA,military,communications,1,4.0,58.6,Medium,100.0,100,5,30,100,20,50,1,0,1,2022
+15,Air Force Research Laboratory/Swedish Defense Materiel Administration,Sweden,military,technology_demo,1,8.0,48.6,Medium,100.0,100,5,30,40,20,30,1,0,1,2019
+16,Air Force Satellite Control Network,USA,military,earth_observation,5,2500.0,52.9,Medium,0.0,100,40,100,100,20,50,0,0,3,2022
+17,Airbus Defense and Space,France,commercial,technology_demo,1,1.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+18,Al-Farabi Kazakh National University,Kazakhstan,government,technology_demo,1,4.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+19,Alba Orbital,United Kingdom,commercial,technology_demo,4,2.0,71.9,High,100.0,100,20,30,100,100,50,4,0,1,2022
+20,Algerian Space Agency (ASAL),Algeria,government,earth_observation,3,350.0,50.2,Medium,100.0,100,20,30,10,40,30,3,0,1,2016
+21,Algerian Space Agency (ASAL)/UK Space Agency,Algeria,government,technology_demo,1,10.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2016
+22,Alibaba,China,commercial,communications,1,25.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+23,Analytical Space,USA,government,technology_demo,1,5.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2019
+24,Aoyama Gakuin University in Tokyo,Japan,government,technology_demo,1,1.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+25,Applied Physics Laboratory/NASA,USA,government,technology_demo,1,5.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2016
+26,"Aprize Satellite, Argentina",USA/Argentina,commercial,communications,9,108.0,63.4,High,100.0,100,40,30,10,100,50,9,0,1,2014
+27,"Argentinian Ministry of Science, Technology and Productive Innovation/Radio Club Bariloche",Argentina,government,technology_demo,1,2.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2013
+28,Asher Space Research Institute at Technion/Israeli Aircraft Industries,Israel,government,technology_demo,3,27.0,59.2,Medium,100.0,100,20,30,70,40,30,3,0,1,2021
+29,Asia-Pacific Space Cooperation Organization (APSCO),Multinational,government,technology_demo,1,4.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+30,Astro Digital,USA,commercial,earth_observation,6,70.0,78.0,Priority,100.0,100,40,100,70,100,50,6,0,4,2020
+31,Astro Live Experiences,Japan,commercial,other,1,75.0,60.2,High,100.0,100,5,30,40,100,70,1,0,1,2019
+32,AstroForge,United Kingdom,commercial,technology_demo,1,10.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+33,Astrocast,Switzerland,commercial,communications,10,40.0,78.8,Priority,100.0,100,60,60,70,100,30,10,0,2,2021
+34,Astrodynamics and Control Laboratory of Yonsei University,South Korea,government,other,1,3.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+35,Astronautic Technology Sdn. Bhd (ATSB),Malaysia,government,technology_demo,1,4.0,53.0,Medium,100.0,100,5,30,40,40,70,1,0,1,2018
+36,Astroscale,Singapore,commercial,technology_demo,1,175.0,64.6,High,100.0,100,5,30,70,100,70,1,0,1,2021
+37,Astrotech SOHLA,Japan,government,technology_demo,1,50.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2009
+38,Aurora Insight,Lithuania,commercial,communications,2,18.0,68.8,High,100.0,100,20,60,70,100,30,2,0,2,2021
+39,Austrian Space Forum (OEWF)/Spire,Austria,government,other,1,11.5,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+40,Axelspace,Japan,commercial,earth_observation,5,500.0,73.4,High,100.0,100,40,30,70,100,70,5,0,1,2021
+41,BRITE Consortium,Multinational,government,other,1,10.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2014
+42,Beihang University/APSCO,China,government,technology_demo,1,30.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+43,Beijing Commsat Technology Development Co. Ltd.,China,commercial,technology_demo,7,136.0,66.9,High,100.0,100,40,30,40,100,30,7,0,1,2018
+44,Beijing Future Navigation Technology Co. Ltd.,China,commercial,technology_demo,1,100.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+45,Beijing Landview Mapping Information Technology Co. Ltd (BLMIT),China,commercial,earth_observation,1,166.0,53.6,Medium,100.0,100,5,30,10,100,30,1,0,1,2005
+46,"Beijing MinoSpace Technology Co., Ltd.",China,commercial,technology_demo,1,70.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+47,"Beijing ZeroG Space Technology Co., Ltd./Hong Kong Aerospace Tech Group",China,commercial,earth_observation,3,90.0,68.8,High,100.0,100,20,60,70,100,30,3,0,2,2021
+48,Beijing ZeroG Technology Co. Ltd.,China,commercial,earth_observation,1,3.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2019
+49,BlackSky Global,USA,commercial,earth_observation,15,820.0,87.5,Priority,100.0,100,60,100,100,100,50,15,0,3,2023
+50,"Brazilian National Institute of Space Research (INPE/MCTI), Federal University of Santa Maria (UFSM)",Brazil,government,earth_observation,1,3.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+51,Brigham Young University,USA,government,technology_demo,2,2.0,60.2,High,100.0,100,20,30,70,40,50,2,0,1,2021
+52,C3S,Hungary,commercial,technology_demo,1,4.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+53,C3S LLC,Hungary,commercial,technology_demo,1,95.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+54,CASIOM,China,commercial,other,1,200.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2022
+55,CENTI (China-Europe Networks of technology and Innovation),China,commercial,communications,2,194.0,70.9,High,100.0,100,20,30,100,100,30,2,0,1,2022
+56,CNES (Centre national d'études spatiales),ESA,government,other,1,5.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+57,COSMIAC (Configurable Space Microsystems Innovations & Applications Center),USA,government,other,1,9.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2020
+58,CTRS Morocco/Institut für Luft-und Raumfahrttechnik (Berlin),Morocco/Germany,government,technology_demo,1,47.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2001
+59,California Polytechnic Institute,USA,government,other,1,4.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+60,California Polytechnic State University,USA,government,technology_demo,1,6.0,32.0,Low,0.0,100,5,30,40,40,50,0,0,1,2019
+61,California Polytechnic State University/NASA JPL,USA,government,earth_observation,1,4.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2015
+62,Canadian Space Agency,Canada,government,other,4,767.0,56.8,Medium,100.0,100,20,100,10,40,50,4,0,4,2013
+63,Canon Electronics,Japan,commercial,technology_demo,2,39.0,70.8,High,100.0,100,20,60,70,100,70,2,0,2,2020
+64,Cape Peninsula University of Technology (CPUT),South Africa,government,earth_observation,3,3.0,63.7,High,100.0,100,20,30,100,40,30,3,0,1,2022
+65,Capella Space,USA,commercial,earth_observation,5,548.0,79.3,Priority,100.0,100,40,60,100,100,50,5,0,2,2023
+66,Capital Technology University,USA,government,technology_demo,1,4.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+67,Care Weather Technologies,USA,government,earth_observation,1,1.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+68,"Center for Atmospheric Sciences, Hampton University/NASA",USA,government,earth_observation,1,215.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2007
+69,Center of Excellence for Space Sciences and Technologies (SPACE-SI),Slovenia,government,earth_observation,1,65.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+70,Central European Institute of Technology,Czech Republic,government,technology_demo,2,3.0,63.7,High,100.0,100,20,30,100,40,30,2,0,1,2023
+71,Centre National d'Etudes Spatiales (CNES),ESA,government,communications,1,18.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+72,Centre National d'Etudes Spatiales (CNES)/Israel Space Agency,France/Israel,government,earth_observation,1,264.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+73,Centre for Research in Satellite Technology (CREST),Singapore,government,earth_observation,1,91.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2011
+74,Chang Guang Satellite Technology Co. Ltd.,China,commercial,earth_observation,59,4235.0,96.5,Priority,100.0,100,100,100,100,100,30,59,0,8,2023
+75,Changchun Institute of Optics,China,commercial,earth_observation,1,55.0,53.6,Medium,100.0,100,5,30,10,100,30,1,0,1,2015
+76,"Changsha Tianyi space science and Technology Research Institute Co., Ltd. (Spacety)",China,commercial,earth_observation,1,50.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+77,Chengdu Guoxing Aerospace Technology Co. Ltd.,China,commercial,earth_observation,2,20.0,68.8,High,100.0,100,20,60,70,100,30,2,0,2,2021
+78,Chiba Institute of Technology,Japan,government,technology_demo,1,4.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+79,Chilean Air Force,Chile,military,earth_observation,1,117.0,44.0,Medium,100.0,100,5,30,10,20,30,1,0,1,2011
+80,China Academy of Space Technology (CAST),China,government,earth_observation,12,2968.0,79.3,Priority,100.0,100,60,100,100,40,30,12,0,3,2022
+81,China Aerospace Science and Industry Corporation (CASIC),China,government,technology_demo,1,90.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2022
+82,China Aerospace Science and Technology Corp. (CASC),China,government,technology_demo,3,372.0,55.8,Medium,100.0,100,20,100,10,40,30,3,0,3,2017
+83,China Amateur Satellite - CAMSAT,China,government,technology_demo,1,3.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2015
+84,Chinese Academy of Sciences,China,government,earth_observation,10,1600.8,79.3,Priority,100.0,100,60,100,100,40,30,10,0,6,2022
+85,Chinese Academy of Sciences (CAS)/China Academy of Space Technology,China,government,technology_demo,1,27.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+86,Chinese Academy of Space Techology (CAST),China,government,technology_demo,2,200.0,63.7,High,100.0,100,20,30,100,40,30,2,0,1,2023
+87,Chinese Amateur Satellite (CAMSAT),China,government,communications,5,57.0,55.2,Medium,100.0,100,40,30,10,40,30,5,0,1,2015
+88,Chinese Ministry of National Defense,China,military,earth_observation,23,8700.0,81.9,Priority,100.0,100,80,100,100,20,30,23,0,3,2023
+89,Chinese University Corporation for Polar Research,China,government,earth_observation,1,16.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+90,Chosun University,South Korea,government,other,2,14.0,68.1,High,100.0,100,20,60,100,40,70,2,0,2,2022
+91,Clyde Space Ltd./EUTELSAT,France,commercial,technology_demo,1,10.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+92,"College of Engineering, King Saud University",Saudi Arabia,government,technology_demo,1,2.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+93,Colombian Air Force,Colombia,military,earth_observation,2,15.0,63.7,High,100.0,100,20,60,100,20,30,2,0,2,2023
+94,Colorado State University,USA,government,other,1,10.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+95,Copernicus Land and Marine Environment services,ESA,government,earth_observation,2,20.0,59.2,Medium,100.0,100,20,30,70,40,30,2,0,1,2020
+96,Crown Prince Foundation,Jordan,government,communications,1,2.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+97,D-Orbit,Italy,commercial,technology_demo,1,150.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2020
+98,DARPA (Defense Advanced Research Projects Agency),USA,military,technology_demo,1,8.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2017
+99,DFH Satellite Co. Ltd./AMSAT-China,China,government,communications,1,60.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2009
+100,DGA (Arms Procurement Agency)/Centre National d'Etudes Spatiales (CNES),France,military,earth_observation,4,480.0,48.8,Medium,100.0,100,20,30,10,20,50,4,0,1,2011
+101,Dauria Aerospace,Russia,commercial,communications,2,12.0,57.4,Medium,100.0,100,20,30,10,100,30,2,0,1,2014
+102,Defence Research and Development Canada (DRDC)/Canadian Space Agency,Canada,government,earth_observation,1,85.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2016
+103,Defence Research and Development Organization,India,military,earth_observation,1,436.0,52.0,Medium,100.0,100,5,30,40,20,100,1,0,1,2019
+104,Defence Science and Technology Group/University of New South Wales,Australia,military,technology_demo,1,4.0,46.0,Medium,100.0,100,5,30,10,20,70,1,0,1,2017
+105,Defense Advanced Research Projects Agency (DARPA),USA,military,technology_demo,8,258.0,68.4,High,100.0,100,40,100,70,20,50,8,0,3,2021
+106,Defense Innovation Unit/Cesium Astro,USA,military,technology_demo,2,20.0,57.8,Medium,100.0,100,20,30,70,20,50,2,0,1,2021
+107,Defense Ministry,Israel,military,technology_demo,2,303.0,59.2,Medium,100.0,100,20,60,70,20,30,2,0,2,2020
+108,Deimos,Spain,government,earth_observation,1,4.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+109,Deimos Imaging/DMC International Imaging (DMCII),Spain,government,earth_observation,2,400.0,50.2,Medium,100.0,100,20,30,10,40,30,2,0,1,2014
+110,"Department of Astrophysical and Planetary Science, UC Boulder/National Aeronautics and Space Administration (NASA)",USA,government,other,1,10.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+111,"Department of Computer Science and the Faculty of Engineering, Ariel University",Israel,government,technology_demo,1,0.5,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2022
+112,Department of Defense/Army Space and Missile Defense Command,USA,military,earth_observation,1,4.0,54.0,Medium,100.0,100,5,30,70,20,50,1,0,1,2021
+113,Department of Defense/Missile Defense Agency,USA,military,communications,2,10.0,57.8,Medium,100.0,100,20,30,70,20,50,2,0,1,2021
+114,Department of Defense/Space Test Program,USA,military,communications,1,4.0,54.0,Medium,100.0,100,5,30,70,20,50,1,0,1,2021
+115,Department of Homeland Security,USA,government,technology_demo,1,3.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2012
+116,Department of National Defense,Canada,military,earth_observation,1,148.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2013
+117,Deutsches Zentrum für Luft- und Raumfahrt,Germany,government,other,1,45.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,1999
+118,Dubai Electricity and Water Authority (DEWA),United Arab Emirates,government,earth_observation,1,10.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+119,EOS Data Analytics,USA,commercial,earth_observation,1,178.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+120,ESA/European Maritime Safety Agency,ESA,government,earth_observation,1,112.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+121,"ESA/Royal Meteorological Institute, Belgium",ESA,government,other,1,6.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+122,ESPACE,USA,commercial,technology_demo,3,18.0,71.9,High,100.0,100,20,30,100,100,50,3,0,1,2022
+123,Ecole Polytechnique Fédérale de Lanne (EPFL),Switzerland,government,technology_demo,1,1.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2009
+124,Egyptian Space Agency,Egypt,government,earth_observation,2,660.0,63.7,High,100.0,100,20,30,100,40,30,2,0,1,2023
+125,Elbit Systems,Israel,commercial,technology_demo,2,10.0,61.9,High,100.0,100,20,30,40,100,30,2,0,1,2019
+126,Emirates Institution for Advanced Science & Technology (EIAST),United Arab Emirates,government,earth_observation,2,630.0,57.1,Medium,100.0,100,20,60,40,40,30,2,0,2,2018
+127,Endurosat,Bulgaria,commercial,technology_demo,1,10.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+128,Epic Aerospace,Argentina,commercial,technology_demo,1,270.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+129,Equator Technological University,Ecuador,government,technology_demo,1,4.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+130,Ethiopian Space Science and Technology Institute,Ethiopia,government,earth_observation,2,79.0,61.6,High,100.0,100,20,60,70,40,30,2,0,2,2020
+131,European Space Agency (ESA),ESA,government,earth_observation,10,2060.0,74.8,High,100.0,100,60,100,70,40,30,10,0,6,2021
+132,European University Network,ESA,government,earth_observation,1,45.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+133,Exseed Space,India,commercial,communications,1,4.0,61.6,High,100.0,100,5,30,40,100,100,1,0,1,2018
+134,F /ORSO (Operationally Responsive Space Office),USA,military,technology_demo,1,140.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2017
+135,F Space Test Office,USA,military,technology_demo,1,85.0,49.6,Medium,100.0,100,5,30,40,20,50,1,0,1,2019
+136,FH Aachen,Germany,government,technology_demo,1,4.5,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+137,Fleet Space Technologies,Australia,commercial,technology_demo,4,10.0,69.5,High,100.0,100,20,100,40,100,70,4,0,3,2018
+138,French South African Institute of Technology/Cape Peninsula University of Technology,South Africa,government,technology_demo,2,6.0,57.1,Medium,100.0,100,20,60,40,40,30,2,0,2,2018
+139,"GHGSat, Inc.",Canada,commercial,other,6,90.0,82.5,Priority,100.0,100,40,100,100,100,50,6,0,3,2023
+140,GUMUSH AeroSpace/University of Turkish Aeronautical Association (UTAA),Turkey,government,communications,1,4.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+141,Galaxy Space,China,commercial,communications,6,1140.0,75.9,Priority,100.0,100,40,30,100,100,30,6,0,1,2022
+142,GalaxySpace,China,commercial,communications,1,227.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2020
+143,Gama,France,commercial,technology_demo,1,10.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+144,Gang Hang Ke,China,commercial,earth_observation,3,70.0,70.9,High,100.0,100,20,30,100,100,30,3,0,1,2023
+145,"GasTianta and GZH-HNJ BDS AGR Co., Ltd.",China,commercial,earth_observation,1,40.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2019
+146,Geespace,China,commercial,earth_observation,9,900.0,75.9,Priority,100.0,100,40,30,100,100,30,9,0,1,2022
+147,General Atomics - Electromagnetic Systems Group,USA,commercial,technology_demo,1,138.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2019
+148,General Atomics Electromagnetic Systems,USA,commercial,communications,2,32.0,67.4,High,100.0,100,20,30,70,100,50,2,0,1,2021
+149,GeoOptics Inc.,USA,commercial,earth_observation,5,50.0,73.5,High,100.0,100,40,100,40,100,50,5,0,3,2018
+150,"GeoOptics, Inc.",USA,commercial,earth_observation,2,20.0,74.3,High,100.0,100,20,60,100,100,50,2,0,2,2022
+151,Georgia Institute of Technology,USA,government,technology_demo,3,73.5,58.1,Medium,100.0,100,20,60,40,40,50,3,0,2,2019
+152,German Aerospace Center (DLR),Germany,government,technology_demo,3,480.0,61.3,High,100.0,100,20,100,40,40,50,3,0,3,2018
+153,German Aerospace Center (DLR-IKN)/TESAT Spacecom,Germany,government,technology_demo,1,5.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+154,German Orbital Systems,Germany,commercial,technology_demo,1,4.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2018
+155,Ghalam LLP,Kazakhstan,commercial,earth_observation,1,100.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+156,Globalstar,USA,commercial,communications,8,3600.0,65.8,High,100.0,100,40,60,10,100,50,8,0,2,2007
+157,GomSpace ApS,Denmark,commercial,technology_demo,3,21.0,64.3,High,100.0,100,20,60,40,100,30,3,0,2,2018
+158,Gonets Satcom,Russia,commercial,communications,18,5010.0,78.8,Priority,100.0,100,60,60,70,100,30,18,0,2,2020
+159,Government of Sudan,Sudan,government,earth_observation,1,50.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+160,Guodian Gaoke,China,commercial,technology_demo,16,366.0,86.5,Priority,100.0,100,60,100,100,100,30,16,0,9,2023
+161,HEAD Aerospace,China,commercial,earth_observation,7,315.0,77.0,Priority,100.0,100,40,100,70,100,30,7,0,4,2021
+162,Harbin Institute/China Amateur Satellite - CAMSAT,China,government,technology_demo,1,11.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2015
+163,Harris Corporation,USA,commercial,communications,1,4.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2018
+164,HawkEye 360,USA,commercial,other,18,366.0,87.5,Priority,100.0,100,60,100,100,100,50,18,0,3,2023
+165,Helios Wire/Echostar Global Australia,USA,commercial,communications,1,20.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2018
+166,Hera Systems,USA,commercial,earth_observation,1,22.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2019
+167,Herzliya Science Center,Israel,commercial,communications,9,12.0,75.9,Priority,100.0,100,40,30,100,100,30,9,0,1,2023
+168,Hiber Global,Netherlands,commercial,technology_demo,4,18.0,72.0,High,100.0,100,20,100,70,100,30,4,0,3,2021
+169,Hong Kong Aerospace Technology Group,China,commercial,earth_observation,2,20.0,66.4,High,100.0,100,20,30,70,100,30,2,0,1,2021
+170,Huaian Youth Comprehensive Development Base,China,government,technology_demo,1,2.5,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+171,Hubei University of Technology (HUT),China,government,technology_demo,1,20.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+172,"Hunan Hangsheng Satellite Technology Co., Ltd.",China,commercial,technology_demo,1,37.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+173,ICEYE Ltd.,Finland,commercial,earth_observation,22,1760.0,91.5,Priority,100.0,100,80,100,100,100,30,22,0,3,2023
+174,"IT University of Copenhagen, University of Southern Denmark, Aalborg University and Aarhus University",Denmark,government,other,1,1.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+175,ITU Space Systems Design & Test Laboratory,Turkey,government,technology_demo,1,1.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2009
+176,"ImageSat International, NV/Ministry of Defense",Israel,military,earth_observation,1,350.0,44.0,Medium,100.0,100,5,30,10,20,30,1,0,1,2006
+177,InSpace,United Kingdom,commercial,other,1,10.0,63.6,High,100.0,100,5,30,70,100,50,1,0,1,2021
+178,Indian Space Research Organization (ISRO),India,government,earth_observation,9,1043.9,77.8,Priority,100.0,100,40,100,100,40,100,9,0,5,2023
+179,Indian Space Research Organization (ISRO)/Centre National d'Etudes Spatiales (CNES),India/France,government,earth_observation,1,407.0,49.9,Medium,100.0,100,5,30,10,40,100,1,0,1,2013
+180,Indonesian National Aeronautics and Space Agency (Lembaga Penerbangan dan Antariksa Nasional - LAPAN),Indonesia,government,earth_observation,3,243.0,57.8,Medium,100.0,100,20,100,10,40,70,3,0,3,2016
+181,"Insight Position Digital Intelligence Technology Service Co., Ltd.",China,commercial,technology_demo,1,50.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+182,Institute of Software Chinese Academy of Sciences,China,government,technology_demo,1,19.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+183,Institute of Space Sensor Technology and Planetary Exploration,Germany,government,earth_observation,1,92.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2001
+184,Institute of Space and Astronautical Science (ISAS)/Japan Aerospace Exploration Agency (JAXA),Japan,government,technology_demo,1,70.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2005
+185,Instituto Nacional de Pesquisas Espaciais (INPE),Brazil,government,earth_observation,2,220.0,50.2,Medium,100.0,100,20,30,10,40,30,2,0,1,1998
+186,Instituto Nacional de Técnia Aeroespacial (INTA),Spain,government,communications,2,40.0,52.6,Medium,100.0,100,20,60,10,40,30,2,0,2,2009
+187,Istanbul Technical University,Turkey,government,earth_observation,1,5.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+188,Italian Defense Ministry,Italy,military,earth_observation,1,368.0,44.0,Medium,100.0,100,5,30,10,20,30,1,0,1,2017
+189,Japan Aerospace Exploration Agency (JAXA),Japan,government,technology_demo,5,1058.0,60.6,High,60.0,100,40,60,70,40,70,3,0,2,2021
+190,Japan Space Systems,Japan,government,earth_observation,1,500.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2014
+191,Jihua Laboratory,China,government,technology_demo,1,70.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+192,KLEO Connect,Germany,commercial,technology_demo,2,200.0,67.4,High,100.0,100,20,30,70,100,50,2,0,1,2021
+193,Kawasaki Heavy Industries,Japan,commercial,technology_demo,1,62.0,64.6,High,100.0,100,5,30,70,100,70,1,0,1,2021
+194,Kazcosmos,Kazakhstan,government,earth_observation,1,185.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2014
+195,Kenya Space Agency,Kenya,government,earth_observation,1,4.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+196,Kepler Communications,Canada,commercial,communications,21,197.0,92.5,Priority,100.0,100,80,100,100,100,50,21,0,5,2023
+197,Khalifa University,United Arab Emirates,government,technology_demo,1,4.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+198,Kleos Space,Luxembourg,commercial,earth_observation,12,120.0,80.9,Priority,100.0,100,60,30,100,100,30,12,0,1,2023
+199,Korea Advanced Institute of Science and Technology (KAIST),South Korea,government,other,1,100.0,53.0,Medium,100.0,100,5,30,40,40,70,1,0,1,2018
+200,Korea Advanced Institute of Science and Technology.,South Korea,government,earth_observation,1,4.0,62.0,High,100.0,100,5,30,100,40,70,1,0,1,2022
+201,Korea Aerospace Research Institute (KARI),South Korea,government,technology_demo,2,593.0,63.6,High,100.0,100,20,60,70,40,70,2,0,2,2021
+202,Korean Aerospace Research Institute (KARI),South Korea,government,technology_demo,1,163.0,62.0,High,100.0,100,5,30,100,40,70,1,0,1,2022
+203,Kuwait University,Kuwait,government,technology_demo,1,3.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+204,Kyushu Institute of Technology (KIT),Japan,government,technology_demo,3,79.1,59.1,Medium,100.0,100,20,60,40,40,70,3,0,2,2018
+205,La Sapienza University of Rome,Iraq,government,earth_observation,1,1.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2014
+206,"La Sapienza University of Rome/Machakos University/University of Nairobi, Kenya",Italy,government,communications,1,1.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+207,"Laboratory for Atmospheric and Space Physics, University of Colorado, Boulder",USA,government,other,1,5.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2023
+208,Lacuna Space,United Kingdom,commercial,communications,2,9.0,69.8,High,100.0,100,20,60,70,100,50,2,0,2,2021
+209,Lacuna Space/NanoAvionics,Lithuania,commercial,communications,1,4.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+210,Link Space Aerospace Technology,China,commercial,technology_demo,1,3.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+211,Loft Orbital,USA,commercial,technology_demo,2,167.0,71.9,High,100.0,100,20,30,100,100,50,2,0,1,2023
+212,Loft Orbital/Fugro,USA,commercial,other,1,80.0,63.6,High,100.0,100,5,30,70,100,50,1,0,1,2021
+213,Los Alamos National Laboratory,USA,military,technology_demo,4,219.0,63.4,High,100.0,100,20,100,70,20,50,4,0,4,2021
+214,Lunasonde,USA,commercial,earth_observation,1,1.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2022
+215,Lynk Global Inc.,USA,commercial,communications,5,278.0,79.3,Priority,100.0,100,40,60,100,100,50,5,0,2,2023
+216,MIT/Lincoln Laboratory-University of Massachusetts Amherst,USA,government,earth_observation,1,3.8,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+217,Marshall Intec,United Arab Emirates,government,earth_observation,1,3.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+218,Masdar Institute of Science and Technology,United Arab Emirates,government,earth_observation,1,5.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+219,Massachusetts Institute of Technology,USA,government,technology_demo,1,9.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2020
+220,"Max Valier school Bolzano, Italy, Oskar von Miller school, Merano, Italy",Italy,government,technology_demo,1,16.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2017
+221,Mexican Space Agency/NanoAvionics,Mexico,government,earth_observation,1,9.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+222,Mexico Secretariat of National Defense (SEDENA),Mexico,military,earth_observation,2,8.0,59.2,Medium,100.0,100,20,60,70,20,30,2,0,2,2021
+223,Michigan Technological University/Air Force Research Laboratory,USA,military,technology_demo,1,70.0,29.6,Low,0.0,100,5,30,40,20,50,0,0,1,2019
+224,Microspace Rapid Pvt Ltd.,Singapore,commercial,technology_demo,1,6.0,55.6,Medium,100.0,100,5,30,10,100,70,1,0,1,2015
+225,Ministry of Armed Forces,France,military,earth_observation,3,1200.0,57.8,Medium,100.0,100,20,30,70,20,50,3,0,1,2021
+226,Ministry of Defense,Russia,military,communications,42,11375.0,81.9,Priority,100.0,100,80,100,100,20,30,42,0,7,2023
+227,Ministry of Defense/General Delegation for Ordnance (DGA),France,military,technology_demo,2,234.0,28.8,Low,0.0,100,20,30,10,20,50,0,0,1,2009
+228,Ministry of Natural Resources/Ministry of Housing and Urban-Rural Development/National Bureau of Statistics,China,government,earth_observation,1,9.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+229,MinoSpace Technology,China,commercial,earth_observation,1,88.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2022
+230,Minospace,China,commercial,earth_observation,2,590.0,70.9,High,100.0,100,20,30,100,100,30,2,0,1,2022
+231,Mitsubishi Heavy Industries,Japan,commercial,technology_demo,1,46.0,64.6,High,100.0,100,5,30,70,100,70,1,0,1,2021
+232,Mohammend Bin Rashid Space Centre (MBRSC),United Arab Emirates,government,earth_observation,1,15.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+233,Momentus,USA,commercial,technology_demo,1,20.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2019
+234,"Momentus, Inc.",USA,commercial,technology_demo,2,726.0,71.9,High,100.0,100,20,30,100,100,50,2,0,1,2023
+235,Moscow State University,Russia,government,other,4,17.0,59.2,Medium,100.0,100,20,30,70,40,30,4,0,1,2020
+236,Mozhaisky Space Engineering Academy,Russia,government,technology_demo,1,64.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2003
+237,MyRadar,Germany,commercial,technology_demo,2,2.0,71.9,High,100.0,100,20,30,100,100,50,2,0,1,2022
+238,NASA Goddard Space Flight Center,USA,government,other,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+239,NASA Langley Research Center,USA,government,technology_demo,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+240,NASA Small Satellite Technology Program,USA,government,technology_demo,1,5.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+241,NASA/CalPoly,USA,government,other,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+242,NASA/Carnegie Mellon University,USA,government,technology_demo,3,3.0,60.2,High,100.0,100,20,30,70,40,50,3,0,1,2021
+243,"NRS Lab. Atmospheres, Milieux, Observations Spatiales (Verrieres)",France,government,earth_observation,1,3.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2023
+244,NSLComm,Israel,commercial,technology_demo,2,18.0,73.3,High,100.0,100,20,60,100,100,30,2,0,2,2023
+245,Nanjing University,China,government,technology_demo,2,510.0,59.2,Medium,100.0,100,20,30,70,40,30,2,0,1,2021
+246,Nanjing and Hong Kong Universities,China,government,other,1,50.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+247,NanoAvionics,Lithuania,commercial,technology_demo,2,16.8,61.9,High,100.0,100,20,30,40,100,30,2,0,1,2019
+248,Nanyang Technological University,Singapore,government,technology_demo,2,136.0,52.2,Medium,100.0,100,20,30,10,40,70,2,0,1,2015
+249,National Academy of Sciences,Belarus,government,earth_observation,1,400.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2012
+250,National Aeronautics and Space Administration (NASA),USA,government,other,10,2063.0,73.8,High,90.0,100,60,100,70,40,50,9,0,6,2021
+251,"National Aeronautics and Space Administration (NASA) Earth Science Office/Laboratory for Atmospheric and Space Physics, Univ. of Colorado",USA,government,other,1,315.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2003
+252,National Aeronautics and Space Administration (NASA)-Ames Research Center/Stanford University,USA,government,other,1,5.5,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2010
+253,National Aeronautics and Space Administration (NASA)/Ames Research Center,USA,government,technology_demo,1,4.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2022
+254,National Aeronautics and Space Administration (NASA)/Cornell University,USA,government,technology_demo,2,8.0,64.7,High,100.0,100,20,30,100,40,50,2,0,1,2022
+255,National Aeronautics and Space Administration (NASA)/Goddard Space Flight Center,USA,government,other,1,462.0,27.4,Low,0.0,100,5,30,10,40,50,0,0,1,2008
+256,"National Aeronautics and Space Administration (NASA)/University of California, Berkeley (in partnership with Germany, France, Austria, Canada)",Multinational,government,other,3,378.0,30.2,Low,0.0,100,20,30,10,40,30,0,0,1,2007
+257,National Authority for Remote Sensing and Space Sciences,Egypt,government,technology_demo,1,1.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+258,National Autonomous University of Mexico,Mexico,government,technology_demo,1,3.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+259,National Center for Atmospheric Research (NCKU),Taiwan,government,other,1,3.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+260,National Institute of Information and Communications Technology (JPN),Japan,commercial,technology_demo,1,48.0,55.6,Medium,100.0,100,5,30,10,100,70,1,0,1,2014
+261,National Institute of Technology at Kochi College,Japan,government,technology_demo,1,3.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+262,National Reconnaissance Office (NRO),USA,military,technology_demo,3,505.0,64.7,High,100.0,100,20,60,100,20,50,3,0,2,2022
+263,National Remote Sensing Center (NRSCC),China,government,earth_observation,2,940.0,50.2,Medium,100.0,100,20,30,10,40,30,2,0,1,2008
+264,National Space Program,Ukraine,government,earth_observation,1,170.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2022
+265,"National Space Program Office (NSPO)/University Corporation for Atmospheric Research (UCAR) Boulder, CO",Taiwan,government,earth_observation,5,350.0,55.2,Medium,100.0,100,40,30,10,40,30,5,0,1,2006
+266,National Space Research and Development Agency (NASRDA),Nigeria,government,earth_observation,2,400.0,50.2,Medium,100.0,100,20,30,10,40,30,2,0,1,2011
+267,National Technical University,Ukraine,government,technology_demo,2,3.0,67.1,High,100.0,100,20,60,100,40,50,2,0,2,2023
+268,National University of Defense Technology,China,government,technology_demo,3,165.5,64.8,High,100.0,100,20,100,70,40,30,3,0,3,2020
+269,National University of Singapore,Singapore,government,earth_observation,1,78.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2015
+270,Naval Post-Graduate School,USA,military,other,2,2.0,48.8,Medium,100.0,100,20,30,10,20,50,2,0,1,2015
+271,Naval Research Laboratory,USA,military,technology_demo,1,450.0,25.0,Low,0.0,100,5,30,10,20,50,0,0,1,2011
+272,NearSpace Launch/Air Force Research Laboratory,USA,government,technology_demo,1,10.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2015
+273,Netherlands Organization for Applied Scientific Research (NTO) consortium,Netherlands,government,technology_demo,1,10.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2017
+274,Nihon University,Japan,government,technology_demo,3,14.1,62.3,High,100.0,100,20,100,40,40,70,3,0,3,2019
+275,Ningxia Jingui Information Technology Co. Ltd.,China,commercial,earth_observation,10,1000.0,76.4,Priority,100.0,100,60,30,70,100,30,10,0,1,2021
+276,Noorul Islam University,India,government,technology_demo,1,15.0,49.9,Medium,100.0,100,5,30,10,40,100,1,0,1,2017
+277,North Idaho STEM Charter Academy,USA,government,other,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+278,Norwegian Coastal Admnistration,Norway,government,communications,2,12.0,52.6,Medium,100.0,100,20,60,10,40,30,2,0,2,2014
+279,Norwegian Defence Research Establishment,Norway,military,technology_demo,1,10.0,57.6,Medium,100.0,100,5,30,100,20,30,1,0,1,2022
+280,Norwegian Defence Research Establishment (FFI)/,Norway,military,earth_observation,2,20.0,61.3,High,100.0,100,20,30,100,20,30,2,0,1,2023
+281,Norwegian Space Center,Norway,government,earth_observation,3,61.0,61.6,High,100.0,100,20,60,70,40,30,3,0,2,2021
+282,Norwegian Space Center/Statsat,Norway,government,earth_observation,1,35.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+283,Novosibirsk State University,Russia,government,other,1,9.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+284,OHB Italia,Italy,commercial,earth_observation,1,4.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+285,OHB SE (Orbitale Hochtechnologie Bremen),Germany,commercial,communications,1,50.0,63.6,High,100.0,100,5,30,70,100,50,1,0,1,2021
+286,ORBCOMM Inc.,USA,commercial,communications,35,3099.0,79.0,Priority,100.0,100,80,100,10,100,50,35,0,4,2015
+287,Omnispace,USA,commercial,communications,1,20.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2022
+288,OneWeb Satellites,United Kingdom,commercial,communications,589,87170.2,97.5,Priority,100.0,100,100,100,100,100,50,589,0,6,2023
+289,Open Cosmos,Spain,commercial,earth_observation,1,10.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+290,Orbit Fab,USA,commercial,technology_demo,1,35.0,63.6,High,100.0,100,5,30,70,100,50,1,0,1,2021
+291,Orbital Sidekick,USA,commercial,earth_observation,2,170.0,71.9,High,100.0,100,20,30,100,100,50,2,0,1,2023
+292,Orbital Solutions Monaco,Monaco,government,technology_demo,1,1.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+293,Orbital Space,Kuwait,government,communications,1,1.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+294,Origin Space,China,commercial,technology_demo,2,82.0,68.8,High,100.0,100,20,60,70,100,30,2,0,2,2021
+295,PIESAT,Australia,commercial,earth_observation,4,1130.0,72.9,High,100.0,100,20,30,100,100,70,4,0,1,2023
+296,Pakistan Space and Upper Atmosphere Research Commission (SUPARCO),Pakistan,government,earth_observation,1,285.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+297,Peruvian Space Agency,Peru,government,earth_observation,1,430.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2016
+298,"Philippines’ Department of Science and Technology, University of the Philippines Diliman, and Japan’s Hokkaido University and Tohoku University",Japan,government,earth_observation,1,56.0,53.0,Medium,100.0,100,5,30,40,40,70,1,0,1,2018
+299,Plan-S,Turkey,commercial,earth_observation,2,20.0,70.9,High,100.0,100,20,30,100,100,30,2,0,1,2023
+300,Planet Labs,USA,commercial,earth_observation,219,3079.7,97.5,Priority,100.0,100,100,100,100,100,50,219,0,9,2023
+301,Planetary Resources,USA,commercial,technology_demo,1,10.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2018
+302,PlanetiQ,USA,commercial,other,3,90.0,71.9,High,100.0,100,20,30,100,100,50,3,0,1,2022
+303,PointView Tech,USA,commercial,communications,1,138.0,63.6,High,100.0,100,5,30,70,100,50,1,0,1,2020
+304,Polytechnic University of Madrid,Spain,government,technology_demo,1,60.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+305,Portland State Aerospace Society,USA,government,technology_demo,1,1.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2022
+306,QOSMOSYS,Singapore,commercial,technology_demo,1,4.0,69.2,High,100.0,100,5,30,100,100,70,1,0,1,2023
+307,Qiansheng Exploration Technology Co. Ltd.,China,commercial,earth_observation,1,65.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2019
+308,Radio Amateur Society of Thailand (RAST),Thailand,government,communications,1,1.0,53.0,Medium,100.0,100,5,30,40,40,70,1,0,1,2019
+309,Reaktor Space Lab,Finland,commercial,earth_observation,1,4.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+310,Revolutionary Guard Corps,Iran,military,earth_observation,1,15.0,57.6,Medium,100.0,100,5,30,100,20,30,1,0,1,2022
+311,Riyadh Space Research Institute,Saudi Arabia,commercial,communications,9,319.0,62.4,High,100.0,100,40,30,10,100,30,9,0,1,2007
+312,"Robertsville Middle School, Oak Ridge, Tennessee",USA,government,earth_observation,1,3.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+313,Rocket Labs,New Zealand,commercial,technology_demo,1,20.0,64.6,High,100.0,100,5,30,70,100,70,1,0,1,2021
+314,Roscosmos State Corporation,Russia,government,earth_observation,5,2500.0,59.7,Medium,100.0,100,40,30,40,40,30,5,0,1,2018
+315,SRI International,USA,commercial,technology_demo,2,4.0,58.4,Medium,100.0,100,20,30,10,100,50,2,0,1,2015
+316,SRM University,India,government,technology_demo,1,10.9,49.9,Medium,100.0,100,5,30,10,40,100,1,0,1,2011
+317,Salish Kootenai College,USA,government,earth_observation,1,1.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2015
+318,Sanya Institute of Remote Sensing,China,government,earth_observation,4,244.0,63.7,High,100.0,100,20,30,100,40,30,4,0,1,2022
+319,Sapienza,Italy,government,technology_demo,1,10.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+320,SatRevolution,Poland,commercial,earth_observation,5,25.0,78.3,Priority,100.0,100,40,60,100,100,30,5,0,2,2022
+321,SatRevolution/Steamjet,Poland/UK,commercial,technology_demo,1,5.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2022
+322,Sateliot IoT,Spain,commercial,communications,2,8.0,73.3,High,100.0,100,20,60,100,100,30,2,0,2,2023
+323,Satellogic S.A.,Argentina,commercial,earth_observation,38,1567.0,91.5,Priority,100.0,100,80,100,100,100,30,38,0,6,2023
+324,Scanway/German Orbital Systems,USA/Poland,commercial,technology_demo,1,10.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+325,Scientific Production Corporation (joint stock creation of Russian Space Agency),Russia,government,earth_observation,1,400.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2012
+326,Seoul National University,South Korea,government,technology_demo,1,4.0,62.0,High,100.0,100,5,30,100,40,70,1,0,1,2022
+327,Shandong Institutes of Industrial Technology,China,government,earth_observation,4,575.0,66.1,High,100.0,100,20,60,100,40,30,4,0,2,2023
+328,Shanghai Engineering Center for Microsatellites,China,government,earth_observation,3,150.0,50.2,Medium,100.0,100,20,30,10,40,30,3,0,1,2016
+329,Shanghai Institute of Satellite Engineering,China,government,technology_demo,1,100.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+330,Shanghai Jiao Tong University/APSCO,China,government,technology_demo,1,4.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+331,Shanghai Lizheng Satellite Application Technology,China,commercial,communications,1,50.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2019
+332,Shanghai Micro Satellite Engineering Center,China,government,technology_demo,4,200.0,69.3,High,100.0,100,20,100,100,40,30,4,0,3,2022
+333,Shanghai Weixing Keji,China,government,technology_demo,1,10.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2023
+334,Singapore Armed Forces,Singapore,military,earth_observation,1,365.0,59.6,Medium,100.0,100,5,30,100,20,70,1,0,1,2022
+335,Skobeltsyn Institute of Nuclear Physics,Russia,government,earth_observation,1,253.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2014
+336,"Sky and Space Global, UK",United Kingdom,commercial,technology_demo,3,18.0,58.4,Medium,100.0,100,20,30,10,100,50,3,0,1,2017
+337,SkyFox Labs,Czech Republic,commercial,technology_demo,1,1.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2019
+338,Skykraft,Australia,commercial,technology_demo,5,300.0,77.9,Priority,100.0,100,40,30,100,100,70,5,0,1,2023
+339,Sony,Japan,commercial,other,1,10.0,69.2,High,100.0,100,5,30,100,100,70,1,0,1,2023
+340,Space Development Agency,USA,military,technology_demo,10,1800.0,72.3,High,100.0,100,60,30,100,20,50,10,0,1,2023
+341,Space OK (Shanghai Ok Space Co Ltd.),China,commercial,communications,1,45.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018
+342,"Space Research Institute, King Abdulaziz City for Science and Technology",Saudi Arabia,government,earth_observation,3,860.0,57.1,Medium,100.0,100,20,60,40,40,30,3,0,2,2018
+343,Space Technologies Research Institute,Turkey,government,earth_observation,1,113.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2011
+344,Space Technology Institute-Vietnam Academy of Science and Technology (STI-VAST),Vietnam,government,earth_observation,1,115.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2013
+345,SpacePharma,Switzerland,commercial,technology_demo,2,16.0,68.8,High,100.0,100,20,60,70,100,30,2,0,2,2020
+346,"SpaceQuest, Ltd.",USA,commercial,technology_demo,2,8.0,62.9,High,100.0,100,20,30,40,100,50,2,0,1,2018
+347,SpaceX,USA,commercial,communications,3910,1020186.0,91.9,Priority,100.0,100,100,30,100,100,50,3910,0,1,2023
+348,Spacety,China,commercial,earth_observation,1,180.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2020
+349,Spacety Aerospace Company,China,commercial,technology_demo,6,47.0,72.5,High,100.0,100,40,100,40,100,30,6,0,3,2019
+350,Spacety Aerospace Company/Changsha Gaoxinqu Tianyi Research Institute,China,commercial,technology_demo,2,16.0,61.9,High,100.0,100,20,30,40,100,30,2,0,1,2018
+351,Spacety Aerospace Company/ThrustMe,China/France,commercial,technology_demo,1,9.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2019
+352,Spacety Co. Ltd.,China,commercial,earth_observation,1,325.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2022
+353,Spacex,USA,commercial,communications,46,11960.0,86.9,Priority,100.0,100,80,30,100,100,50,46,0,1,2022
+354,Spanish Space Agency,Spain,government,technology_demo,1,3.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2013
+355,Spire Global Inc.,USA,commercial,earth_observation,135,1350.0,97.5,Priority,100.0,100,100,100,100,100,50,135,0,12,2023
+356,St. Petersburg Polytechnic University,Russia,government,technology_demo,2,10.0,63.7,High,100.0,100,20,30,100,40,30,2,0,1,2022
+357,Stanford Student Space Initiative,USA,government,earth_observation,1,1.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2023
+358,State Oceanic Administration (SOA),China,government,earth_observation,2,884.0,59.2,Medium,100.0,100,20,30,70,40,30,2,0,1,2020
+359,Sternula,Denmark,commercial,earth_observation,1,10.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+360,Surrey Satellite Technology Ltd.,United Kingdom,commercial,earth_observation,6,1889.5,70.3,High,100.0,100,40,60,40,100,50,6,0,2,2019
+361,Swarm Technologies,USA,commercial,communications,90,180.0,97.5,Priority,100.0,100,100,100,100,100,50,90,0,4,2023
+362,Swedish National Space Board,Sweden,government,earth_observation,1,250.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2001
+363,Synspective,Japan,commercial,earth_observation,3,450.0,72.9,High,100.0,100,20,30,100,100,70,3,0,1,2022
+364,TELNET Holding,Tunisia,commercial,technology_demo,1,3.0,62.6,High,100.0,100,5,30,70,100,30,1,0,1,2021
+365,Taiwan's National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA),Taiwan,government,earth_observation,6,1680.0,59.7,Medium,100.0,100,40,30,40,40,30,6,0,1,2019
+366,Tallinn University of Technology,Estonia,government,earth_observation,1,4.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+367,Technical University Berlin,Germany,government,technology_demo,12,90.0,75.8,Priority,100.0,100,60,100,70,40,50,12,0,3,2021
+368,Technical University Dresden,Germany,government,other,1,3.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+369,Technical University of Graz,Austria,government,technology_demo,1,14.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2013
+370,Technical University of Munich,Germany,government,technology_demo,1,2.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+371,"Technical University, Delft",Netherlands,government,technology_demo,1,6.5,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2008
+372,Teen Satellite Project,China,government,technology_demo,1,3.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+373,Teikyo University,Japan,government,technology_demo,1,52.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+374,Telemetry Tracking and Command Network (ISTRAC) Centre,India,government,other,1,230.0,49.9,Medium,100.0,100,5,30,10,40,100,1,0,1,2015
+375,"Telesat Canada Ltd. (BCE, Inc.)",Canada,commercial,communications,1,100.0,59.2,Medium,100.0,100,5,30,40,100,50,1,0,1,2018
+376,Thai Air Force,Thailand,military,earth_observation,2,20.0,61.2,High,100.0,100,20,60,70,20,70,2,0,2,2021
+377,Tianjin University,China,government,earth_observation,1,230.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2021
+378,Tianyi Research Institute,China,government,other,2,40.0,59.2,Medium,100.0,100,20,30,70,40,30,2,0,1,2021
+379,Tiger Innovations,USA,commercial,technology_demo,2,16.0,62.9,High,100.0,100,20,30,40,100,50,2,0,1,2019
+380,Tohoku University,Japan,government,earth_observation,1,59.0,53.0,Medium,100.0,100,5,30,40,40,70,1,0,1,2019
+381,Tohoku University/Hokkaido University,Japan,government,earth_observation,1,41.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2014
+382,Tokyo Institute of Technology,Japan,government,technology_demo,1,55.0,57.4,Medium,100.0,100,5,30,70,40,70,1,0,1,2021
+383,Tokyo Metropolitan College of Industrial Technology,Japan,government,technology_demo,1,3.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2009
+384,"TrustPoint, Inc.",USA,commercial,technology_demo,1,4.0,68.2,High,100.0,100,5,30,100,100,50,1,0,1,2023
+385,Tsinghua University,China,government,technology_demo,2,21.0,50.2,Medium,100.0,100,20,30,10,40,30,2,0,1,2015
+386,Turkish Ministry of National Defense,Turkey,military,earth_observation,1,409.0,44.0,Medium,100.0,100,5,30,10,20,30,1,0,1,2012
+387,"Tyvak Nanosatellite Systems, Inc.",USA,commercial,technology_demo,10,85.0,83.0,Priority,100.0,100,60,100,70,100,50,10,0,5,2021
+388,U.S. Army’s Space and Missile Defense Command,USA,military,earth_observation,2,10.0,60.2,High,100.0,100,20,60,70,20,50,2,0,2,2021
+389,U.S. Space Force/Other Transaction Authority,USA,military,technology_demo,1,100.0,38.6,Low,0.0,100,5,30,100,20,50,0,0,1,2022
+390,UK Government/Surrey Satellite Technologies,United Kingdom,government,earth_observation,1,430.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+391,UK/DMC International Imaging (DMCII),United Kingdom,government,earth_observation,1,96.5,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2009
+392,UMBRA,USA,commercial,earth_observation,5,325.0,76.9,Priority,100.0,100,40,30,100,100,50,5,0,1,2023
+393,US Air Force,USA,military,technology_demo,1,20.0,29.6,Low,0.0,100,5,30,40,20,50,0,0,1,2019
+394,US Air Force Academy,USA,military,technology_demo,4,368.0,58.4,Medium,75.0,100,20,100,70,20,50,3,0,3,2020
+395,US Air Force Institute of Technology,USA,military,technology_demo,1,5.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2013
+396,US Army Space and Missile Defense Command,USA,military,technology_demo,8,182.0,60.7,High,100.0,100,40,60,40,20,50,8,0,2,2019
+397,US Army Space and Missile Defense Command/Army Forces Strategic Command,USA,military,earth_observation,1,50.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2017
+398,US Coast Guard,USA,military,communications,2,12.0,53.3,Medium,100.0,100,20,30,40,20,50,2,0,1,2018
+399,US Naval Academy,USA,military,technology_demo,1,6.0,29.6,Low,0.0,100,5,30,40,20,50,0,0,1,2019
+400,US Space Force,USA,military,technology_demo,3,1500.0,44.7,Medium,0.0,100,20,60,100,20,50,0,0,2,2023
+401,University of Aalborg,Denmark,government,earth_observation,1,1.0,46.4,Medium,100.0,100,5,30,10,40,30,1,0,1,2016
+402,University of Brasilia,Brazil,government,technology_demo,1,1.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2022
+403,University of California,USA,government,other,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+404,University of California-Berkeley/Imperial College-London,USA,government,other,1,3.15,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2012
+405,University of Chile,Chile,government,other,2,8.0,63.7,High,100.0,100,20,30,100,40,30,2,0,1,2022
+406,University of Chile for Aerospace Investigation),Chile,government,technology_demo,1,4.0,60.0,Medium,100.0,100,5,30,100,40,30,1,0,1,2022
+407,University of Colorado,USA,government,other,1,6.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+408,"University of Colorado, Boulder",USA,government,earth_observation,1,4.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+409,University of Colorado’s Laboratory for Atmospheric and Space Physics/Indian Institute of Space Science and Technology,USA/India/Singapore/Taiwan,government,other,1,8.0,63.4,High,100.0,100,5,30,100,40,100,1,0,1,2022
+410,University of Florida,USA,government,technology_demo,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+411,University of Illinois Urbana-Champaign,USA,government,technology_demo,1,3.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+412,University of Louisiana at Lafayette,USA,government,technology_demo,1,1.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+413,University of Malibor/SkyLabs,Slovenia,government,technology_demo,1,4.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+414,University of Michigan/Montana University,USA,government,technology_demo,1,2.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2011
+415,University of Michigan/NASA Earth Science Technology Office,USA,government,earth_observation,8,232.0,56.2,Medium,100.0,100,40,30,10,40,50,8,0,1,2016
+416,University of Montpellier,France,government,other,1,5.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+417,University of New South Wales/Department of Defence,Australia,military,technology_demo,2,18.0,58.8,Medium,100.0,100,20,30,70,20,70,2,0,1,2021
+418,University of North Carolina - Wilmington,USA,government,earth_observation,1,4.0,52.0,Medium,100.0,100,5,30,40,40,50,1,0,1,2018
+419,"University of South Florida, Institute of Applied Engineering (IAE).",USA,government,technology_demo,3,3.0,60.2,High,100.0,100,20,30,70,40,50,3,0,1,2021
+420,"University of Southern California, Space Engineering Research Center/Lockheed Martin",USA,government,technology_demo,1,5.0,61.0,High,100.0,100,5,30,100,40,50,1,0,1,2022
+421,University of Stuttgart,Germany,government,earth_observation,1,120.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+422,University of Texas - Austin,USA,military,technology_demo,1,55.0,45.0,Medium,100.0,100,5,30,10,20,50,1,0,1,2010
+423,University of Tokyo and NESTRA,Japan,government,technology_demo,2,120.0,52.2,Medium,100.0,100,20,30,10,40,70,2,0,1,2014
+424,"University of Toronto, Institute for Aerospace Studies",Canada,government,technology_demo,5,62.0,61.8,High,100.0,100,40,100,10,40,50,5,0,4,2016
+425,University of Versailles Saint-Quentin-en-Yvelines (UVSQ)/National Centre for Scientific Research (CNRS),France,government,technology_demo,1,1.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2021
+426,University of Vigo/Alén Space,Spain,government,communications,1,2.0,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2018
+427,University of Würzburg,Germany,government,technology_demo,2,3.0,58.1,Medium,100.0,100,20,60,40,40,50,2,0,2,2019
+428,Unknown,China,commercial,communications,3,755.0,73.3,High,100.0,100,20,60,100,100,30,3,0,2,2022
+429,UnseenLabs,France,commercial,earth_observation,8,70.0,82.5,Priority,100.0,100,40,100,100,100,50,8,0,3,2023
+430,Utah State University,USA,government,technology_demo,1,9.0,56.4,Medium,100.0,100,5,30,70,40,50,1,0,1,2020
+431,VISIONA Tecnologia Espacial S.A.,Brazil,commercial,technology_demo,1,10.0,67.2,High,100.0,100,5,30,100,100,30,1,0,1,2023
+432,Vanderbilt University/AMSAT,USA,government,technology_demo,1,4.0,47.4,Medium,100.0,100,5,30,10,40,50,1,0,1,2017
+433,Vietnam National Space Center,Vietnam,government,earth_observation,1,50.5,50.9,Medium,100.0,100,5,30,40,40,30,1,0,1,2019
+434,Von Karman Institute (VKI),Belgium,government,other,1,5.0,55.4,Medium,100.0,100,5,30,70,40,30,1,0,1,2020
+435,Wakayama University (UNIFORM consortium),Japan,government,earth_observation,1,50.0,48.4,Medium,100.0,100,5,30,10,40,70,1,0,1,2014
+436,"Weathernews, Inc.",Japan,commercial,earth_observation,2,53.0,61.8,High,100.0,100,20,60,10,100,70,2,0,2,2017
+437,Wuhan University,China,government,earth_observation,3,269.0,66.1,High,100.0,100,20,60,100,40,30,3,0,2,2023
+438,Würzburg Center for Telematics,Germany,commercial,technology_demo,4,16.0,67.4,High,100.0,100,20,30,70,100,50,4,0,1,2020
+439,Xingyun Satellite Co.,China,government,communications,2,186.0,59.2,Medium,100.0,100,20,30,70,40,30,2,0,1,2020
+440,Xinwei Telecom Technology Company,China,commercial,technology_demo,1,100.0,53.6,Medium,100.0,100,5,30,10,100,30,1,0,1,2014
+441,Xiyong Microelectrics Park,China,commercial,weather,6,300.0,78.3,Priority,100.0,100,40,60,100,100,30,6,0,2,2023
+442,Zhejiang University,China,government,technology_demo,5,43.0,66.6,High,100.0,100,40,60,70,40,30,5,0,2,2020
+443,Zhuhai Orbita Aerospace Science and Technology Co.,China,commercial,earth_observation,4,360.0,61.9,High,100.0,100,20,30,40,100,30,4,0,1,2018
+444,Zhuhai Orbita Control Engineering Co. Ltd.,China,commercial,earth_observation,8,440.0,69.3,High,100.0,100,40,60,40,100,30,8,0,2,2019
+445,exactEarth,Canada,commercial,communications,2,18.0,60.8,High,100.0,100,20,60,10,100,50,2,0,2,2015
+446,iQPS,Japan,commercial,earth_observation,2,200.0,70.8,High,100.0,100,20,60,70,100,70,2,0,2,2021
+447,iSky Technology,Czech Republic,commercial,communications,1,4.0,58.2,Medium,100.0,100,5,30,40,100,30,1,0,1,2018

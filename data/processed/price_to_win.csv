@@ -1,0 +1,6 @@
+mass_class,label,price_sensitivity,ptw_low_usd_kg,ptw_high_usd_kg,dedicated_median,rideshare_median
+under_10kg,CubeSat (<10kg),high,43113.0,48502.0,53892.0,11429.0
+10_50kg,Small sat (10-50kg),medium,44730.0,50119.0,53892.0,11429.0
+50_150kg,Mini sat (50-150kg),medium,45808.0,51197.0,53892.0,11429.0
+150_350kg,Medium sat (150-350kg),low,46886.0,52275.0,53892.0,11429.0
+350_500kg,Large small (350-500kg),low,48502.0,53892.0,53892.0,11429.0

@@ -1,0 +1,20 @@
+vehicle_id,vehicle_name,company,country,status,payload_leo_kg,payload_sso_kg,price_per_launch_usd,price_per_kg_usd,fairing_diameter_m,first_launch_year,total_launches,successful_launches,success_rate,rideshare_capable,lead_time_months,data_confidence,reliability_pct,is_operational,bubble_size
+1,Rocket Lab Electron,Rocket Lab,New Zealand / USA,operational,300.0,200.0,7500000.0,25000.0,1.2,2017,52,49,0.94,1,6.0,confirmed,94.0,1,94.0
+2,SpaceX Falcon 9 Rideshare,SpaceX,USA,operational,200.0,200.0,6000.0,6000.0,1.0,2021,10,10,1.0,1,12.0,confirmed,100.0,1,100.0
+3,ISRO PSLV,ISRO,India,operational,3800.0,1750.0,25000000.0,6579.0,3.2,1993,57,55,0.96,1,18.0,confirmed,96.0,1,96.0
+4,ISRO SSLV,ISRO,India,operational,500.0,300.0,30000000.0,60000.0,0.75,2022,3,2,0.67,1,12.0,estimated,67.0,1,67.0
+5,Arianespace Vega-C Rideshare,Arianespace,Europe,operational,700.0,700.0,8000.0,11429.0,2.6,2022,2,1,0.5,1,18.0,confirmed,50.0,1,50.0
+6,Rocket Lab Neutron,Rocket Lab,USA,in_development,13000.0,1500.0,,,,2026,0,0,,1,,confirmed,,0,50.0
+7,Relativity Space Terran R,Relativity Space,USA,in_development,20000.0,,,,,2026,0,0,,0,,confirmed,,0,50.0
+8,Firefly Alpha,Firefly Aerospace,USA,operational,1030.0,630.0,15000000.0,14563.0,1.8,2022,4,2,0.5,0,12.0,confirmed,50.0,1,50.0
+9,ABL Space RS1,ABL Space Systems,USA,in_development,1350.0,,12000000.0,8889.0,1.5,2023,1,0,0.0,0,12.0,reported,0.0,0,0.0
+10,Exolaunch Rideshare,Exolaunch,Germany,operational,,200.0,,8500.0,,2020,30,30,1.0,1,12.0,reported,100.0,1,100.0
+11,Mitsubishi H-IIA,Mitsubishi,Japan,operational,10000.0,4000.0,90000000.0,9000.0,4.0,2001,47,46,0.98,1,24.0,confirmed,98.0,1,98.0
+12,JAXA Epsilon,JAXA,Japan,operational,590.0,450.0,55000000.0,93220.0,1.2,2013,6,5,0.83,0,24.0,confirmed,83.0,1,83.0
+13,Kuaizhou-1A,CASIC,China,operational,300.0,200.0,30000000.0,100000.0,1.0,2017,20,19,0.95,1,6.0,reported,95.0,1,95.0
+14,Long March 2D Rideshare,CASC,China,operational,1200.0,1000.0,30000000.0,25000.0,2.9,1992,60,59,0.98,1,18.0,reported,98.0,1,98.0
+15,Launcher One,Virgin Orbit,USA,retired,500.0,,12000000.0,24000.0,,2021,5,4,0.8,0,,confirmed,80.0,0,80.0
+16,Astra Rocket 3,Astra,USA,retired,50.0,,,,,2020,7,2,0.29,0,,confirmed,29.0,0,29.0
+17,Agnikul Agnibaan,Agnikul Cosmos,India,in_development,100.0,50.0,,,0.7,2024,1,0,0.0,0,,reported,0.0,0,0.0
+18,PLD Space Miura 5,PLD Space,Spain,in_development,300.0,200.0,,,1.0,2025,0,0,,0,,reported,,0,50.0
+19,Isar Aerospace Spectrum,Isar Aerospace,Germany,in_development,1000.0,700.0,,,1.5,2025,0,0,,0,,reported,,0,50.0
